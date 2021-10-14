@@ -1,9 +1,8 @@
 
-# The Timber Starter Theme
+# The Concur 2022 theme
+Wordpress theme for the Concur 2022 conference built using [UiKit 3](https://getuikit.com) framework and based on the awesome [Timber starter theme](https://github.com/timber/starter-theme).
 
-The "_s" for Timber: a dead-simple theme that you can build from. The primary purpose of this theme is to provide a file structure rather than a framework for markup or styles. Configure your Sass, scripts, and task runners however you would like!
-
-[![Build Status](https://travis-ci.com/timber/starter-theme.svg?branch=master)](https://travis-ci.com/github/timber/starter-theme)
+# Old README content
 
 ## Installing the Theme
 
